@@ -29,7 +29,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 🎓 Education
 - **M.S. in Smart Factory Convergence**, Sungkyunkwan University (2025 - Present)  
-- **B.A. in Public Administration**, Dongseoul University (2021 - 2025)
+- **B.A. in Department of Computer Software**, Dongseoul University (2021 - 2025)
 
 ---
 
