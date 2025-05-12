@@ -46,12 +46,12 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 📚 Seminar on Thesis Research
 
-| Date       | Title & Topic                                                                                 | Link | Paper |
-|------------|-----------------------------------------------------------------------------------------------|------|-------|
-| 2025-02-07 | Exploring Synergy of Blockchain and 6G Network for Industrial Automation |[Link](https://youtu.be/eOeNKumSMkw) | [Link](https://doi.org/10.1109/ACCESS.2023.3338861)
-| 2025-03-13 | CNNs Combined With a Conditional GAN for Mura Defect Classification in TFT-LCDs | [Link](https://youtu.be/06CV5EQ8cMA) | [Link](https://doi.org/10.1109/TSM.2020.3048631)
-| 2025-03-26 | UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation | [Link](https://youtu.be/DW-_MnV0xxM) | [Link](https://doi.org/10.1109/WACV56688.2023.00077) |
-| 2025-05-12 | Adding Conditional Control to Text-to-Image Diffusion Models | [Link](https://youtu.be/9MlbfG0uHJg) | [Link](https://doi.org/10.48550/arxiv.2302.05543)
+| Date       | Title & Topic                                                                                 | Youtube | Paper |
+|------------|-----------------------------------------------------------------------------------------------|----|-------|
+| 2025-02-07 | Exploring Synergy of Blockchain and 6G Network for Industrial Automation | <div align="center"> [Link](https://youtu.be/eOeNKumSMkw) </div> | <div align="center"> [Link](https://doi.org/10.1109/ACCESS.2023.3338861) </div> |
+| 2025-03-13 | CNNs Combined With a Conditional GAN for Mura Defect Classification in TFT-LCDs | <div align="center"> [Link](https://youtu.be/06CV5EQ8cMA) </div> | <div align="center"> [Link](https://doi.org/10.1109/TSM.2020.3048631) </div>
+| 2025-03-26 | UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation | <div align="center"> [Link](https://youtu.be/DW-_MnV0xxM) | <div align="center"> [Link](https://doi.org/10.1109/WACV56688.2023.00077) </div> |
+| 2025-05-12 | Adding Conditional Control to Text-to-Image Diffusion Models | <div align="center"> [Link](https://youtu.be/9MlbfG0uHJg) | <div align="center"> [Link](https://doi.org/10.48550/arxiv.2302.05543) </div>
 
 ---
 
