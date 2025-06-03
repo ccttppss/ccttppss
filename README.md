@@ -52,6 +52,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 2025-03-13 | CNNs Combined With a Conditional GAN for Mura Defect Classification in TFT-LCDs | <div align="center"> [Link](https://youtu.be/06CV5EQ8cMA) </div> | <div align="center"> [Link](https://doi.org/10.1109/TSM.2020.3048631) </div>
 | 2025-03-26 | UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation | <div align="center"> [Link](https://youtu.be/DW-_MnV0xxM) | <div align="center"> [Link](https://doi.org/10.1109/WACV56688.2023.00077) </div> |
 | 2025-05-12 | Adding Conditional Control to Text-to-Image Diffusion Models | <div align="center"> [Link](https://youtu.be/9MlbfG0uHJg) | <div align="center"> [Link](https://doi.org/10.48550/arxiv.2302.05543) </div>
+| 2025-06-04 | DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection | <div align="center"> [Link](https://youtu.be/8XwFU5Y_8eo) | <div align="center"> [Link](https://doi.org/10.48550/arXiv.2503.13985) </div>
 
 ---
 
