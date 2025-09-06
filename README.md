@@ -21,7 +21,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 - Deep Learning
 - Computer Vision
 - Natural Language Process
-- Multimodal Language-vision model
+- Multimodal Language-Vision Model
 
 ---
 
