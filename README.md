@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm EunHo Kim
+# 👋 Hi, I'm Eunho Kim
 I am a **Deep Learning Researcher**.\
 Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunkwan University**, focusing on **Anomaly Detection**.
 
