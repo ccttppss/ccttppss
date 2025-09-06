@@ -53,6 +53,10 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 2025-03-26 | UVCGAN: UNet Vision Transformer cycle-consistent GAN for unpaired image-to-image translation | <div align="center"> [Link](https://youtu.be/DW-_MnV0xxM) | <div align="center"> [Link](https://doi.org/10.1109/WACV56688.2023.00077) </div> |
 | 2025-05-12 | Adding Conditional Control to Text-to-Image Diffusion Models | <div align="center"> [Link](https://youtu.be/9MlbfG0uHJg) | <div align="center"> [Link](https://doi.org/10.48550/arxiv.2302.05543) </div>
 | 2025-06-04 | DefectFill: Realistic Defect Generation with Inpainting Diffusion Model for Visual Inspection | <div align="center"> [Link](https://youtu.be/8XwFU5Y_8eo) | <div align="center"> [Link](https://doi.org/10.48550/arXiv.2503.13985) </div>
+| 2025-07-02 | WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation | <div align="center"> [Link](https://youtu.be/zDHIVBd_wS0) | <div align="center"> [Link](https://doi.org/10.48550/arXiv.2303.14814) </div>
+| 2025-07-15 | AnomalyDiffusion: Few-Shot Anomaly Image Generation with Diffusion Model | <div align="center"> [Link](https://youtu.be/EDOw26Stjqc) | <div align="center"> [Link](https://doi.org/10.1609/aaai.v38i8.28696) </div>
+| 2025-07-29 | Diffusion-based Image Generation for In-distribution Data Augmentation in Surface Defect Detection | <div align="center"> [Link](https://youtu.be/MsKoKfc1NXk) | <div align="center"> [Link](https://doi.org/10.5220/0012350400003660) </div>
+| 2025-09-05 | GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection | <div align="center"> [Link](https://youtu.be/iatxHhnYuKY) | <div align="center"> [Link](https://doi.org/10.1007/978-3-031-73209-6_1) </div>
 
 ---
 
