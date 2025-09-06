@@ -81,5 +81,5 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 📫 Contact
 💡 Always open to new opportunities and collaborations!\
-📧 Email: ho9231@g.skku.edu , ho1582@naver.com\
+📧 Email: ho9231@skku.edu , ho9231@g.skku.edu , ho1582@naver.com\
 📍 Location: South Korea 🇰🇷
