@@ -81,6 +81,17 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ---
 
+## 💡 Intellectual Property
+### Program Registrations 
+- 제어 기반 언어 유도 결함 생성(Control-based Language-guided Realistic Imperfection Synthesis)
+  - 등록번호 : C-2025-027634
+  - 설명 : 사전 학습 모델인 Stable Diffusion 모델 기반 3D 구조를 명시적으로 보완 및 강화한 결함 이미지 생성 모델
+- On-Device AI를 위한 ResNet-9 기반 경랑 식물 잎 질병 분류 모델
+  - 등록번호 : C-2025-032770
+  - 설명 : 스마트폰 및 기타 임베디드 시스템에서 구동이 가능한 식물 잎 질병 분류 모델
+
+---
+
 ## 📫 Contact
 💡 Always open to new opportunities and collaborations!\
 📧 Email: ho9231@skku.edu , ho9231@g.skku.edu , ho1582@naver.com\
