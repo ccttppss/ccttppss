@@ -59,7 +59,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 9. | 2025.09.05 | GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection | <div align="center"> [Link](https://youtu.be/iatxHhnYuKY) | <div align="center"> [Link](https://doi.org/10.1007/978-3-031-73209-6_1) </div>
 | 10. | 2025.10.17 | PromptAD: Zero shot Anomaly Detection using Text Prompts | <div align="center"> [Link](https://www.youtube.com/watch?v=wukDggRh_yw) | <div align="center"> [Link](https://doi.org/10.1109/WACV57701.2024.00113) </div>
 | 11. | 2025.11.21 | AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP | <div align="center"> [Link](https://www.youtube.com/watch?v=QbU03wgwO0Q) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.00447) </div>
-| 11. | 2025.12.18 | Bayesian Prompt Flow Learning for Zero Shot Anomaly Detection | <div align="center"> [Link](https://youtu.be/2-KBejWH42Y?si=ukL2WjnDivYVWwfP) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.02830) </div>
+| 12. | 2025.12.18 | Bayesian Prompt Flow Learning for Zero Shot Anomaly Detection | <div align="center"> [Link](https://youtu.be/2-KBejWH42Y?si=ukL2WjnDivYVWwfP) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.02830) </div>
 
 
 
