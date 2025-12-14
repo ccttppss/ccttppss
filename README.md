@@ -59,6 +59,10 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 9. | 2025.09.05 | GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection | <div align="center"> [Link](https://youtu.be/iatxHhnYuKY) | <div align="center"> [Link](https://doi.org/10.1007/978-3-031-73209-6_1) </div>
 | 10. | 2025.10.17 | PromptAD: Zero shot Anomaly Detection using Text Prompts | <div align="center"> [Link](https://www.youtube.com/watch?v=wukDggRh_yw) | <div align="center"> [Link](https://doi.org/10.1109/WACV57701.2024.00113) </div>
 | 11. | 2025.11.21 | AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP | <div align="center"> [Link](https://www.youtube.com/watch?v=QbU03wgwO0Q) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.00447) </div>
+| 11. | 2025.12.18 | Bayesian Prompt Flow Learning for Zero Shot Anomaly Detection | <div align="center"> [Link](https://youtu.be/2-KBejWH42Y?si=ukL2WjnDivYVWwfP) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.02830) </div>
+
+
+
 
 ---
 
@@ -89,6 +93,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 - On-Device AI를 위한 ResNet-9 기반 경랑 식물 잎 질병 분류 모델
   - 등록번호 : C-2025-032770
   - 설명 : 스마트폰 및 기타 임베디드 시스템에서 구동이 가능하도록 경량화된 식물 잎 질병 분류 모델
+- 시각적 검증 기반 영수증 자동 처리 시스템
+  - 등록번호 : R-2025-1072-KR-1
+  - 설명 : Vision-Language Model 기반 OCR 없는 데이터 추출 및 실시간 시각적 검증을 구현한 지능형 분석 시스템
 
 ---
 
