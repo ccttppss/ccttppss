@@ -18,10 +18,10 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 🔬 Research Interests:
 - Anomaly Detection
+- Language-Vision Model
 - Deep Learning
 - Computer Vision
 - Natural Language Process
-- Multimodal Language-Vision Model
 
 ---
 
@@ -61,6 +61,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 11. | 2025.11.21 | AA-CLIP: Enhancing Zero-shot Anomaly Detection via Anomaly-Aware CLIP | <div align="center"> [Link](https://www.youtube.com/watch?v=QbU03wgwO0Q) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.00447) </div>
 | 12. | 2025.12.18 | Bayesian Prompt Flow Learning for Zero Shot Anomaly Detection | <div align="center"> [Link](https://youtu.be/2-KBejWH42Y?si=ukL2WjnDivYVWwfP) | <div align="center"> [Link](https://doi.org/10.1109/CVPR52734.2025.02830) </div>
 | 13. | 2026.01.09 | AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation | <div align="center"> [Link](https://www.youtube.com/watch?v=Bx91JBqD3zk) | <div align="center"> [Link](https://doi.org/10.1145/3746027.3755635) </div>
+| 14. | 2026.01.20 | RareCLIP: Rarity-aware Online Zero-shot Industrial Anomaly Detection | <div align="center"> [Link](https://www.youtube.com/watch?v=haPTJ5u_zIw) | <div align="center"> [Link](https://doi.org/10.1109/TPAMI.2025.3592089) </div>
 
 
 
