@@ -63,8 +63,9 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 13. | 2026.01.09 | AF-CLIP: Zero-Shot Anomaly Detection via Anomaly-Focused CLIP Adaptation | <div align="center"> [Link](https://www.youtube.com/watch?v=Bx91JBqD3zk) | <div align="center"> [Link](https://doi.org/10.1145/3746027.3755635) </div>
 | 14. | 2026.01.20 | RareCLIP: Rarity-aware Online Zero-shot Industrial Anomaly Detection | <div align="center"> [Link](https://www.youtube.com/watch?v=haPTJ5u_zIw) | <div align="center"> [Link](https://doi.org/10.1109/TPAMI.2025.3592089) </div>
 | 15. | 2026.02.05 | Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection | <div align="center"> [Link](https://www.youtube.com/watch?v=P2pddo8ilV0) | <div align="center"> [Link](https://doi.org/10.1109/TCYB.2025.3536165) </div>
-| 16. | 2026.02.-- | FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation | <div align="center"> [Link](https://www.youtube.com/watch?v=P3NHsR5Iito) | <div align="center"> [Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf) </div>
-| 17. | 2026.03.-- | PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/swu3PpJQ0GE?si=INCJmHBwcCdgbfRv) | <div align="center"> [Link](https://doi.org/10.52202/079017-2695) </div>
+| 16. | 2026.02.20 | FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation | <div align="center"> [Link](https://www.youtube.com/watch?v=P3NHsR5Iito) | <div align="center"> [Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf) </div>
+| 17. | 2026.03.18 | PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/swu3PpJQ0GE?si=INCJmHBwcCdgbfRv) | <div align="center"> [Link](https://doi.org/10.52202/079017-2695) </div>
+| 18. | 2026.04.-- | PointAD+: Learning Hierarchical Representations for ZS 3D Anomaly Detection | <div align="center"> [Link]() | <div align="center"> [Link](https://arxiv.org/abs/2509.03277) </div>
 
 
 ---
