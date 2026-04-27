@@ -65,7 +65,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 15. | 2026.02.05 | Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection | <div align="center"> [Link](https://www.youtube.com/watch?v=P2pddo8ilV0) | <div align="center"> [Link](https://doi.org/10.1109/TCYB.2025.3536165) </div>
 | 16. | 2026.02.20 | FE-CLIP: Frequency Enhanced CLIP Model for Zero-Shot Anomaly Detection and Segmentation | <div align="center"> [Link](https://www.youtube.com/watch?v=P3NHsR5Iito) | <div align="center"> [Link](https://openaccess.thecvf.com/content/ICCV2025/papers/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.pdf) </div>
 | 17. | 2026.03.18 | PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/swu3PpJQ0GE?si=INCJmHBwcCdgbfRv) | <div align="center"> [Link](https://doi.org/10.52202/079017-2695) </div>
-| 18. | 2026.04.-- | PointAD+: Learning Hierarchical Representations for ZS 3D Anomaly Detection | <div align="center"> [Link]() | <div align="center"> [Link](https://arxiv.org/abs/2509.03277) </div>
+| 18. | 2026.04.29 | PointAD+: Learning Hierarchical Representations for ZS 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/IPkNINVSmPM?si=79s95RSLUIr76Ef9) | <div align="center"> [Link](https://arxiv.org/abs/2509.03277) </div>
 
 
 ---
