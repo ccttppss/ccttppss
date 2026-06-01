@@ -33,7 +33,7 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 
 ## 🏆 Publications
 ### 📄 Journal Papers
-- **Eunho Kim**, Jong-Pil Jeong (2026)\
+- **Eunho Kim**, Jongpil Jeong (2026)\
   📌 CLARIS: Control-based Language-guided Realistic Imperfection Synthesis\
   📕 Scientific Reports (SCIE), Vol. 16, Article 16786, 2026\
   🔗 https://doi.org/10.1038/s41598-026-46066-z
