@@ -72,6 +72,8 @@ Currently, I am pursuing my **M.S. in Smart Factory Convergence** at **Sungkyunk
 | 17. | 2026.03.18 | PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/swu3PpJQ0GE?si=INCJmHBwcCdgbfRv) | <div align="center"> [Link](https://doi.org/10.52202/079017-2695) </div>
 | 18. | 2026.04.29 | PointAD+: Learning Hierarchical Representations for ZS 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/IPkNINVSmPM?si=79s95RSLUIr76Ef9) | <div align="center"> [Link](https://arxiv.org/abs/2509.03277) </div>
 | 19. | 2026.05.13 | Toward Zero-Shot Point Cloud Anomaly Detection: A Multiview Projection Framework | <div align="center"> [Link](https://www.youtube.com/watch?v=tykZ-igHH28) | <div align="center"> [Link](https://doi.org/10.1109/TSMC.2025.3648581) </div>
+| 20. | 2026.07.14 | Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection | <div align="center"> [Link](https://youtu.be/0NrLKzySKqU?si=eefCGp7qKemYhdKd) | <div align="center"> [Link](https://arxiv.org/abs/2603.21511) </div>
+| 21. | 2026.08.24 | GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning | <div align="center"> [Link](https://youtu.be/f7UJ9L3fSfs?si=juB0vxK-5_gXO041) | <div align="center"> [Link](https://arxiv.org/abs/2602.19206) </div>
 
 
 ---
